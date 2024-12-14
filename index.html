@@ -1,0 +1,19 @@
+---
+title: Rimworld Mods
+---
+{%- assign linkprefix = "https://steamcommunity.com/workshop/filedetails/?id=" -%}
+{%- for i in site.data.mods -%}
+<h2>{{ i.name }}</h2>
+<ul>
+{%- for j in i.links %}
+    <li><a href="{{ linkprefix }}{{ j.id }}">{{ j.name }}</a>
+    {%- if j.de %}
+    (<a href="{{ linkprefix }}{{ j.de }}">Deutsche Übersetzung</a>)
+    {%- endif -%}
+    {% if j.desc %}
+    <br>{{ j.desc }}
+    {%- endif -%}
+    </li>
+{%- endfor %}
+</ul>
+{% endfor -%}

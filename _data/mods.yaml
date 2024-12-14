@@ -1,0 +1,10 @@
+- name: Frameworks & Libraries
+  links:
+    - name: Harmony
+      desc: Wird von vielen Mods benötigt.
+      id: 2009463077
+- name: Vanilla Expanded
+  links:
+    - name: Vanilla Expanded Framework
+      id: 2023507013
+      de: 2367542633
