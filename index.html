@@ -6,9 +6,9 @@ title: Rimworld Mods
 <h2>{{ i.name }}</h2>
 <ul>
 {%- for j in i.links %}
-    <li><a href="{{ linkprefix }}{{ j.id }}">{{ j.name }}</a>
+    <li><a target="_blank" href="{{ linkprefix }}{{ j.id }}">{{ j.name }}</a>
     {%- if j.de %}
-    (<a href="{{ linkprefix }}{{ j.de }}">Deutsche Übersetzung</a>)
+    (<a target="_blank" href="{{ linkprefix }}{{ j.de }}">Deutsche Übersetzung</a>)
     {%- endif -%}
     {% if j.desc %}
     <br>{{ j.desc }}
