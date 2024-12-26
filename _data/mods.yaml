@@ -44,3 +44,37 @@
     - name: Vanilla Helixien Gas Expanded
       id: 2877699803
       de: 2877713341
+  cats:
+    - name: Vanilla Animals Expanded
+      links:
+      - name: Core-Mod
+        id: 2871933948
+      - name: Endangered
+        id: 2366589898
+      - name: Royal Animals
+        id: 2858079457
+      - name: Waste Animals
+        id: 2962126499
+    - name: Vanilla Apparel Expanded
+      links:
+      - name: Core-Mod
+        id: 1814987817
+        de: 2006591694
+      - name: Accessories
+        id: 2521176396
+        de: 2593430036
+    - name: Vanilla Brewing Expanded
+      links:
+      - name: Core-Mod
+        id: 2186560858
+        de: 2189571761
+      - name: Coffees and Teas
+        id: 2275449762
+        de: 2361549555
+    - name: Vanilla Fishing Expanded
+      links:
+      - name: Core-Mod
+        id: 1914064942
+        de: 2006662525
+      - name: Fishing Treasures AddOn
+        id: 2468543398
