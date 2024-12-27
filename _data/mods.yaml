@@ -78,3 +78,35 @@
         de: 2006662525
       - name: Fishing Treasures AddOn
         id: 2468543398
+    - name: Vanilla Weapons Expanded
+      links:
+      - name: Core-Mod
+        id: 1814383360
+        de: 2008470302
+      - name: Bioferrite
+        id: 3287469135
+        de: 3288203494
+      - name: Coilguns
+        id: 2375692535
+        de: 2376509690
+      - name: Frontier
+        id: 2454918139
+        de: 2455098152
+      - name: Grenades
+        id: 2194472657
+        de: 2195978011
+      - name: Heavy Weapons
+        id: 2329126791
+        de: 2376539383
+      - name: Laser
+        id: 1989352844
+        de: 2037599713
+      - name: Makeshift
+        id: 2419690698
+        de: 2420002580
+      - name: Non-Lethal
+        id: 2454918354
+        de: 2455097536
+      - name: Quickdraw
+        id: 1906780517
+        de: 2037601181
