@@ -55,6 +55,7 @@
         id: 2858079457
       - name: Waste Animals
         id: 2962126499
+        de: 3112529787
     - name: Vanilla Apparel Expanded
       links:
       - name: Core-Mod
@@ -78,6 +79,37 @@
         de: 2006662525
       - name: Fishing Treasures AddOn
         id: 2468543398
+    - name: Vanilla Races Expanded
+    - links:
+      - name: Android
+        id: 2975771801
+        de: 2982691926
+      - name: Archon
+        id: 3067715093
+        de: 3109792314
+      - name: Custom Icons
+        id: 2917311689
+      - name: Fungoid
+        id: 3042690053
+        de: 3111588196
+      - name: Genie
+        id: 2901424072
+        de: 2901678223
+      - name: Highmate
+        id: 2995385834
+        de: 2997810665
+      - name: Hussar
+        id: 2893586390
+        de: 2894175208
+      - name: Insector
+        id: 3260509684
+        de: 3261800327
+      - name: Lycanthrope
+        id: 3114453100
+        de: 3114878727
+      - name: Phytokin
+        id: 2927323805
+        de: 2927763085
     - name: Vanilla Weapons Expanded
       links:
       - name: Core-Mod
