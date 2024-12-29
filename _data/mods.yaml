@@ -72,6 +72,34 @@
       - name: Coffees and Teas
         id: 2275449762
         de: 2361549555
+    - name: Vanilla Factions Expanded
+      links:
+      - name: Ancients
+        id: 2654846754
+        de: 3119919864
+      - name: Classical
+        id: 2787850474
+        de: 3141384181
+      - name: Deserters
+        id: 3025493377
+        de: 3119920314
+      - name: Empire
+        id: 2938820380
+        de: 3119920701
+      - name: Insectoids 2
+        id: 3309003431
+      - name: Mechanoids
+        id: 2329011599
+        de: 3296413386
+      - name: Pirates
+        id: 2723801948
+        de: 3295203638
+      - name: Settlers
+        id: 2052918119
+        de: 3119921039
+      - name: Tribals
+        id: 3079786283
+        de: 3112529506
     - name: Vanilla Fishing Expanded
       links:
       - name: Core-Mod
@@ -142,3 +170,6 @@
       - name: Quickdraw
         id: 1906780517
         de: 2037601181
+      - name: Tribal
+        id: 2454918552
+        de: 2455096686
