@@ -107,8 +107,40 @@
         de: 2006662525
       - name: Fishing Treasures AddOn
         id: 2468543398
+    - name: Vanilla Furniture Expanded
+      links:
+      - name: Core-Mod
+        id: 1718190143
+        de: 2026619966
+      - name: Architect
+        id: 2608762624
+        de: 2609288838
+      - name: Art
+        id: 1968134023
+        de: 2026624435
+      - name: Farming
+        id: 1957158779
+        de: 2032995238
+      - name: Medical Module
+        id: 1718191613
+        de: 2026625705
+      - name: Power
+        id: 2062943477
+        de: 2069409150
+      - name: Production
+        id: 1880253632
+        de: 2032996688
+      - name: Props and Decor
+        id: 2102143149
+      - name: Security
+        id: 1845154007
+        de: 2032440494
+      - name: Spacer Module
+        id: 2028381079
+        de: 2032990651
+        desc: Spacer Module um futuristische und spacige Möbel, die perfekt zu einer High-Tech-Kolonie passen. Sie fügt verschiedene neue Möbelstücke, wie hochmoderne Betten, Tische und Beleuchtungssysteme, hinzu, die nicht nur optisch ansprechend sind, sondern auch funktionale Vorteile bieten.
     - name: Vanilla Races Expanded
-    - links:
+      links:
       - name: Android
         id: 2975771801
         de: 2982691926
