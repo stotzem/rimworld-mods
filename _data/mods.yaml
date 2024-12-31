@@ -170,6 +170,37 @@
       - name: Phytokin
         id: 2927323805
         de: 2927763085
+    - name: Vanilla Genetics Expanded
+      links:
+      - name: Core-Mod
+        id: 2801160906
+        de: 2876379759
+      - name: More Lab Stuff
+        id: 2810324444
+        de: 2876379916
+    - name: Vanilla Ideology Expanded
+      links:
+      - name: Anima Theme
+        id: 2666998627
+      - name: Dryads
+        id: 2720631512
+        de: 2810180772
+      - name: Hats and Rags
+        id: 2567387768
+        de: 2593737413
+      - name: Icons and Symbols
+        id: 2552609458
+      - name: Memes and Structures
+        id: 2636329500
+        de: 2711116933
+      - name: Relics and Artifacts
+        id: 2564895018
+        de: 2593737876
+      - name: Sophian Style
+        id: 3194606539
+      - name: Splits and Schisms
+        id: 2573138902
+        de: 2705660407
     - name: Vanilla Weapons Expanded
       links:
       - name: Core-Mod
