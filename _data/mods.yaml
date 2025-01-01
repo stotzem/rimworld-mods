@@ -72,6 +72,17 @@
       - name: Coffees and Teas
         id: 2275449762
         de: 2361549555
+    - name: Vanilla Cooking Expanded
+      links:
+      - name: Core-Mod
+        id: 2134308519
+        de: 2180637433
+      - name: Stews
+        id: 2134312965
+        de: 2180640395
+      - name: Sushi
+        id: 2158539170
+        de: 2180641291
     - name: Vanilla Factions Expanded
       links:
       - name: Ancients
@@ -139,6 +150,31 @@
         id: 2028381079
         de: 2032990651
         desc: Spacer Module um futuristische und spacige Möbel, die perfekt zu einer High-Tech-Kolonie passen. Sie fügt verschiedene neue Möbelstücke, wie hochmoderne Betten, Tische und Beleuchtungssysteme, hinzu, die nicht nur optisch ansprechend sind, sondern auch funktionale Vorteile bieten.
+    - name: Vanilla Outposts Expanded
+      links:
+      - name: Core-Mod
+        id: 2688941031
+        de: 2692720900
+      - name: Additional Outposts
+        id: 2873841790
+        de: 2882056754
+      - name: Power Grid
+        id: 2915686437
+        de: 3115779266
+    - name: Vanilla Plants Expanded
+      links:
+      - name: Core-Mod
+        id: 2134308522
+        de: 2175264526
+      - name: More Plants
+        id: 2748889667
+        de: 2750051878
+      - name: Mushrooms
+        id: 3006389281
+        de: 3006886552
+      - name: Succulents
+        id: 2198652536
+        de: 2200302052
     - name: Vanilla Races Expanded
       links:
       - name: Android
