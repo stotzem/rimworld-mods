@@ -149,7 +149,6 @@
       - name: Spacer Module
         id: 2028381079
         de: 2032990651
-        desc: Spacer Module um futuristische und spacige Möbel, die perfekt zu einer High-Tech-Kolonie passen. Sie fügt verschiedene neue Möbelstücke, wie hochmoderne Betten, Tische und Beleuchtungssysteme, hinzu, die nicht nur optisch ansprechend sind, sondern auch funktionale Vorteile bieten.
     - name: Vanilla Outposts Expanded
       links:
       - name: Core-Mod
@@ -175,6 +174,19 @@
       - name: Succulents
         id: 2198652536
         de: 2200302052
+    - name: Vanilla Psycasts Expanded
+      links:
+      - name: Core-Mod
+        id: 2842502659
+        de: 2869052181
+      - name: Hemosage
+        id: 2990596478
+        de: 3109131376
+      - name: Puppeteer
+        id: 3033779606
+        de: 3109131376
+      - name: Better VPE Skipdoor Pathing
+        id: 3011764218
     - name: Vanilla Races Expanded
       links:
       - name: Android
@@ -206,6 +218,18 @@
       - name: Phytokin
         id: 2927323805
         de: 2927763085
+      - name: Pigskin
+        id: 3164798809
+        de: 3165060969
+      - name: Sanguophage
+        id: 2963116383
+        de: 2963582600
+      - name: Saurid
+        id: 2880990495
+        de: 2881399800
+      - name: Waster
+        id: 2983471725
+        de: 2983485904
     - name: Vanilla Genetics Expanded
       links:
       - name: Core-Mod
@@ -237,6 +261,12 @@
       - name: Splits and Schisms
         id: 2573138902
         de: 2705660407
+    - name: Vanilla Textures Expanded
+      links:
+      - name: Core-Mod
+        id: 2016436324
+      - name: Variations
+        id: 2493234474
     - name: Vanilla Weapons Expanded
       links:
       - name: Core-Mod
