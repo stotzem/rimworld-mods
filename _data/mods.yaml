@@ -44,6 +44,17 @@
     - name: Vanilla Helixien Gas Expanded
       id: 2877699803
       de: 2877713341
+    - name: Vanilla Nutrient Paste Expanded
+      id: 2920385763
+      de: 2920762360
+    - name: Vanilla Persona Weapons Expanded
+      id: 2826922787
+    - name: Vanilla Recycling Expanded
+      id: 3155781848
+      de: 3158585317
+    - name: Vanilla Social Interactions Expanded
+      id: 2439736083
+      de: 2440919965
   cats:
     - name: Vanilla Animals Expanded
       links:
@@ -261,12 +272,32 @@
       - name: Splits and Schisms
         id: 2573138902
         de: 2705660407
+    - name: Vanilla Storytellers Expanded
+      links:
+      - name: Perry Persistent
+        id: 2149702069
+        de: 3256324878
+      - name: RimWorld Rick
+        id: 2787762549
+      - name: Winston Waves
+        id: 3215569151
     - name: Vanilla Textures Expanded
       links:
       - name: Core-Mod
         id: 2016436324
       - name: Variations
         id: 2493234474
+    - name: Vanilla Vehicles Expanded
+      links:
+      - name: Core-Mod
+        id: 3014906877
+        de: 3016008387
+      - name: Tier 3
+        id: 3047892432
+        de: 3110514350
+      - name: Upgrades
+        id: 3302208420
+        de: 3302914961
     - name: Vanilla Weapons Expanded
       links:
       - name: Core-Mod
