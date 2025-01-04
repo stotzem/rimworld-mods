@@ -3,6 +3,27 @@
     - name: Harmony
       desc: Die Harmony-Mod für RimWorld ist eine essenzielle C#-Bibliothek, die viele andere Mods benötigen. Sie enthält jedoch keine Inhalte für das Gameplay, sondern ist rein funktional. <br><b>Die Mod muss an der Spitze der Mod-Liste stehen, sogar noch vor "Core", um korrekt zu funktionieren.</b>
       id: 2009463077
+    - name: Vehicle Framework
+      id: 3014915404
+      de: 3015391985
+      desc: Wird von Alpha Vehicles und Vanilla Vehicles Expanded benötigt.
+- name: Alpha
+  links:
+    - name: Alpha Animals
+      id: 1541721856
+      de: 2363070675
+    - name: Alpha Bees
+      id: 1558161673
+    - name: Alpha Biomes
+      id: 1841354677
+      de: 3124794127
+    - name: Alpha Crafts
+      id: 3382446150
+    - name: Alpha Vehicles - Early Cars
+      id: 3337198188
+    - name: Alpha Vehicles - Neolithic
+      id: 3028675048
+      de: 3293365089
 - name: Vanilla Expanded
   links:
     - name: Vanilla Expanded Framework
@@ -55,6 +76,15 @@
     - name: Vanilla Social Interactions Expanded
       id: 2439736083
       de: 2440919965
+    - name: Vanilla Temperature Expanded
+      id: 3202046258
+      de: 3269710642
+    - name: Vanilla Trading Expanded
+      id: 2785616901
+      de: 2786447720
+    - name: Vanilla Traits Expanded
+      id: 2296404655
+      de: 2387429474
   cats:
     - name: Vanilla Animals Expanded
       links:
