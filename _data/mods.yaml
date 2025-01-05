@@ -1,7 +1,12 @@
 - name: Frameworks & Libraries
   links:
     - name: Harmony
-      desc: Die Harmony-Mod für RimWorld ist eine essenzielle C#-Bibliothek, die viele andere Mods benötigen. Sie enthält jedoch keine Inhalte für das Gameplay, sondern ist rein funktional. <br><b>Die Mod muss an der Spitze der Mod-Liste stehen, sogar noch vor "Core", um korrekt zu funktionieren.</b>
+      desc: >
+        Die Harmony-Mod für RimWorld ist eine essenzielle C#-Bibliothek, die viele andere Mods
+        benötigen. Sie enthält jedoch keine Inhalte für das Gameplay, sondern ist rein funktional.
+        <br>
+        <b>Die Mod muss an der Spitze der Mod-Liste stehen, sogar noch vor "Core", um korrekt zu
+        funktionieren.</b>
       id: 2009463077
     - name: Vehicle Framework
       id: 3014915404
@@ -19,26 +24,60 @@
       de: 3124794127
     - name: Alpha Crafts
       id: 3382446150
+    - name: Alpha Genes
+      id: 2891845502
+    - name: Alpha Implants
+      id: 3275091331
+    - name: Alpha Mechs
+      id: 2973169158
+      de: 3119917477
+    - name: Alpha Memes
+      id: 2661356814
+      de: 2749970514
+    - name: Alpha Mythology
+      id: 1821617793
     - name: Alpha Vehicles - Early Cars
       id: 3337198188
     - name: Alpha Vehicles - Neolithic
       id: 3028675048
       de: 3293365089
+- name: Eccentric Tech
+  links:
+    - name: Core
+      id: 2552623545
+    - name: Angel Apparel
+      id: 2585928816
+    - name: Angel Hairs
+      id: 2014890320
+    - name: Advanced Shields
+      id: 2591721581
+    - name: Foxy''s Armory 2.0
+      id: 2552628608
 - name: Vanilla Expanded
   links:
     - name: Vanilla Expanded Framework
-      desc: Diese Mod ist eine essentielle Code-Bibliothek für Mods in der Vanilla Expanded-Serie von RimWorld. Es dient als Basis für gemeinsame Funktionalitäten zwischen Mods, wie benutzerdefinierte Mechaniken, Ereignisse und Assets.
+      desc: >
+        Diese Mod ist eine essentielle Code-Bibliothek für Mods in der Vanilla Expanded-Serie von
+        RimWorld. Es dient als Basis für gemeinsame Funktionalitäten zwischen Mods, wie
+        benutzerdefinierte Mechaniken, Ereignisse und Assets.
       id: 2023507013
       de: 2367542633
     - name: Vanilla Achievements Expanded
-      desc:  Diese Mod fügt ein umfangreiches Belohnungssystem hinzu. Spieler erhalten Punkte für verschiedene Errungenschaften, die sie für besondere Leistungen und Herausforderungen belohnen. Diese Punkte können verwendet werden, um verschiedene In-Game-Ereignisse auszulösen.
+      desc: >
+        Diese Mod fügt ein umfangreiches Belohnungssystem hinzu. Spieler erhalten Punkte für
+        verschiedene Errungenschaften, die sie für besondere Leistungen und Herausforderungen
+        belohnen. Diese Punkte können verwendet werden, um verschiedene In-Game-Ereignisse
+        auszulösen.
       id: 2288125657
     - name: Vanilla Anomaly Expanded - Insanity
       id: 3342412435
     - name: Vanilla Armour Expanded
       id: 1814988282
       de: 2008857624
-      desc: Diese Mod fügt eine Vielzahl neuer Rüstungen hinzu, die über verschiedene Technologiestufen reichen, von hölzernen Rüstungen prähistorischer Stämme bis hin zu modernen Schutzwesten und Ghillie-Anzügen.
+      desc: >
+        Diese Mod fügt eine Vielzahl neuer Rüstungen hinzu, die über verschiedene Technologiestufen
+        reichen, von hölzernen Rüstungen prähistorischer Stämme bis hin zu modernen Schutzwesten und
+        Ghillie-Anzügen.
     - name: Vanilla Aspirations Expanded
       id: 3268401022
       de: 3269716880
