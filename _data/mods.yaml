@@ -12,6 +12,28 @@
       id: 3014915404
       de: 3015391985
       desc: Wird von Alpha Vehicles und Vanilla Vehicles Expanded benötigt.
+- name: Quality of Life
+  links:
+    - name: Animal Tab
+      id: 712141500
+    - name: Better Log
+      id: 2772559481
+    - name: Conduit Deconstruct
+      id: 3229402412
+    - name: DragSelect
+      id: 2599942235
+    - name: Dubs Mint Minimap
+      id: 1662119905
+    - name: Dubs Performance Analyzer
+      id: 2038874626
+    - name: Filter by Headless (1.5)
+      id: 2916348201
+    - name: Ground Targeter
+      id: 2356822769
+    - name: Keep Bed Ownership
+      id: 2130184293
+    - name: KilledEnemyAutoAllowed
+      id: 2159090973
 - name: Alpha
   links:
     - name: Alpha Animals
