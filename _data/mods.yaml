@@ -34,6 +34,27 @@
       id: 2130184293
     - name: KilledEnemyAutoAllowed
       id: 2159090973
+    - name: Numbers
+      id: 1414302321
+    - name: Performance Optimizer
+      id: 2664723367
+    - name: Planning Extended
+      id: 2877392159
+    - name: Quality Colors
+      id: 3224462440
+    - name: QualityBuilder
+      id: 754637870
+    - name: Relevant Stats In Description
+      id: 2692669482
+    - name: RimHUD
+      id: 1508850027
+      de: 2727011823
+    - name: RimKeeper - Compress save files
+      id: 3243386716
+    - name: RimPy Mod Manager Database
+      id: 1847679158
+    - name: RPG Style Inventory Revamped
+      id: 2478833213
 - name: Alpha
   links:
     - name: Alpha Animals
